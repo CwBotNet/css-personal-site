@@ -1,0 +1,147 @@
+/* dev --> Raj sahani  */
+
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    background-color: #e1edf9;
+    padding: 0;
+}
+h1{
+    margin: 0;
+    font-family:'Sacramento', cursive;
+    color: #e1edf9;
+    font-size: 60px;
+}
+
+.top-container>p{
+    color: #e1edf9;
+}
+
+h2{
+    color: #453C67;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    margin-top: 6%;  
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #453C67;
+    font-size: 25px;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #a1b6cc;
+    border-width: 6px;
+    width: 70px;
+    margin-top: 4%;
+}
+table{
+    margin: 3% auto; 
+}
+
+.container{
+    width: 400px;
+}
+
+.container-2 {
+    width: 500px;
+    margin: 0 auto;
+}
+.table-img{
+    width: 30%;
+}
+
+.profile-pic{
+    margin-top: 5%;
+    margin-bottom: 1%;
+    width: 8%;
+}
+
+.top-container{
+    background-color: #453C67;
+    height: 450px;
+    width: 100%;
+    position: relative;
+    padding-top: 100px;
+}
+
+.cloud-1{
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+
+.cloud-2{
+    position: absolute;
+    left: 500px;
+    bottom:300px;
+}
+
+.mountain{
+    position: absolute;
+    left: 650px;
+    bottom:0;
+}
+
+.footer{
+    background-color: #453C67;
+    width: 100%;
+    height: 300px;
+    margin-top: 4%;
+}
+
+.footer>p{
+    color:#e1edf9;
+    padding-top: 8%;
+    font-size: 10px;
+}
+
+button{
+    border-radius: 5px;
+    border: 0;
+    border-color: #6D67E4;
+    background-color: #6D67E4;
+    font-size: 20px;
+    margin-top: 2%;
+    padding: 10px;
+}
+
+button>img{
+    width: 20px;
+    position: relative;
+    top: 2px;
+    
+}
+
+.btn{
+    transition-duration: 0.4s;
+    text-align: center;
+    color: white;
+}
+
+.btn:hover{
+    background-color: #e1edf9;
+    color: #6D67E4;
+}
+
+a{
+    text-decoration: underline;
+    color: #e1edf9;
+}
+
+.social{
+    position: relative;
+    top: 40px;
+}
+.icon{
+    width: 30px;
+    margin: 15px auto;
+    padding: 30px;
+}
+
+.cc{
+    margin:0 auto ;
+}
